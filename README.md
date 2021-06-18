@@ -1,6 +1,4 @@
 ![image](https://user-images.githubusercontent.com/61211736/122619117-600cf380-d098-11eb-9f92-56d33a51fa5f.png)
-{width="1.8777777777777778in"
-height="1.8777777777777778in"}
 
 Geçen ödevde liste yapısında tuttuğumuz öğrencileri bu kez ağaç
 yapısında tutarak bir takım ağaç yapısına özgü fonksiyonlarla listeleme,
@@ -9,18 +7,23 @@ olan üç farklı öğrenci datalarını ağaç yapısına ekleyip dosyadaki
 sıralamanın ağaç yapısının dengesini ne şekilde etkilediğini
 inceleyeceğiz.
 
-![](media/image2.png){width="5.222222222222222in"
-height="2.2319444444444443in"} Ama önce ekran görüntülerine bir bakalım.
 
-![](media/image3.png){width="5.2875in" height="4.2243055555555555in"}
+Ama önce ekran görüntülerine bir bakalım.
 
-![](media/image4.png){width="5.3375in" height="2.6131944444444444in"}
 
-![](media/image5.png){width="5.309027777777778in"
-height="2.5444444444444443in"} Görüldüğü üzere normal sıralı listelemede
+![image](https://user-images.githubusercontent.com/61211736/122619180-8337a300-d098-11eb-9c1a-5356dd730ffc.png)
+
+![image](https://user-images.githubusercontent.com/61211736/122619196-8b8fde00-d098-11eb-9212-8442d6ea80ac.png)
+
+![image](https://user-images.githubusercontent.com/61211736/122619225-a2363500-d098-11eb-8d62-1ae7933c1bfe.png)
+
+Görüldüğü üzere normal sıralı listelemede
 24’üncü sırada olan *GÖKHAN KAYA* ağaç yapısının avantajlarından
 yararlanıldığı zaman sadece 7 işlem sonrasında bulunduğu yerden silinmiş
 oluyor.
+
+![image](https://user-images.githubusercontent.com/61211736/122619251-afebba80-d098-11eb-8e16-bede6ed92ea0.png)
+
 
 Ve yine ağaç yapısının verdiği gereksiz dallara bakmama avantajı
 sayesinde listede olmayan bir veriyi silmeye kalkıştığımızda tüm listeyi
@@ -48,22 +51,17 @@ dengesini bozmaktadır. Sıralı verileri ağaç yapısına eklerken birtakım
 Verilerin sıralanışındaki rastgelelik ağaç yapısının daha dengeli ve
 daha çok ağaç görünümünü andırmasını sağlar.
 
-![](media/image6.png){width="5.498113517060368in"
-height="2.636936789151356in"}
+![image](https://user-images.githubusercontent.com/61211736/122619265-b5e19b80-d098-11eb-953a-1e862b42851c.png)
 
-![](media/image7.png){width="5.4959208223972in"
-height="2.6698108048993876in"}
+![image](https://user-images.githubusercontent.com/61211736/122619267-b9752280-d098-11eb-98f7-d24b47f330dc.png)
 
-![](media/image8.png){width="5.847916666666666in"
-height="2.782638888888889in"}
+![image](https://user-images.githubusercontent.com/61211736/122619273-bda14000-d098-11eb-9b2d-36aa4b1531eb.png)
 
-![](media/image9.png){width="5.782638888888889in"
-height="2.782638888888889in"}
+![image](https://user-images.githubusercontent.com/61211736/122619282-c134c700-d098-11eb-8886-7c5a77f7bb25.png)
 
-![](media/image10.png){width="5.81875in" height="2.7625in"}
+![image](https://user-images.githubusercontent.com/61211736/122619292-c85bd500-d098-11eb-9338-96265e8b6ea6.png)
 
-![](media/image11.png){width="5.668055555555555in"
-height="2.6881944444444446in"}
+![image](https://user-images.githubusercontent.com/61211736/122619296-cbef5c00-d098-11eb-887a-5f4ec3caf1fa.png)
 
 Görüldüğü üzere sıralı datalarda ağacın dengesi bozulup bağlantılı liste
 yapısına dönüşmüştür.
