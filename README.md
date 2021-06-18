@@ -1,4 +1,5 @@
-![](media/image1.jpeg){width="1.8777777777777778in"
+![image](https://user-images.githubusercontent.com/61211736/122619117-600cf380-d098-11eb-9f92-56d33a51fa5f.png)
+{width="1.8777777777777778in"
 height="1.8777777777777778in"}
 
 Geçen ödevde liste yapısında tuttuğumuz öğrencileri bu kez ağaç
